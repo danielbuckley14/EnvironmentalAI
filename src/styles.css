@@ -1,0 +1,13 @@
+/* styles.css */
+.button {
+    background-color: #00b359;
+    color: white;
+    border: 0px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .button:hover {
+    background-color: #00994d; /* Slightly darker shade */
+  }
